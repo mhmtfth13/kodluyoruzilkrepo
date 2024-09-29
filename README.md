@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](www.patika.dev) Git egitiminde olusturmus oldugumuz ilk repodur. Icerisinde bir adet README.MD dosyasi barindirmaktadir.
 
-![github](figures/github.png)
+[figures/github.png](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png?raw=true))
 
 ## Installation
 
